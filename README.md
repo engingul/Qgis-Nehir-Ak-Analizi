@@ -15,13 +15,14 @@ This QGIS plugin enables environmental and hydrological analysis based on river 
 1. Open **QGIS** (tested with version 3.40.6 and above).
 2. Go to `Plugins` > `Manage and Install Plugins`.
 3. Click on `Install from ZIP` if installing manually.
-4. Clone or download this repository:
-   ```bash
-   git clone https://github.com/engingul/Qgis-river-flow-analysis.git
-5.Copy the folder to your QGIS plugin directory:
+4. Download this repository:
+   
+   [RiverFlowAnalyzer.zip](https://github.com/engingul/Qgis-river-flow-analysis/blob/main/RiverFlowAnalyzer.zip)
+   
+5. Copy the folder to your QGIS plugin directory:
 Linux: ~/.local/share/QGIS/QGIS3/profiles/default/python/plugins
 Windows: C:\Users\<YourUsername>\AppData\Roaming\QGIS\QGIS3\profiles\default\python\plugins
-6.Restart QGIS and enable the plugin from the Plugins menu.
+6. Restart QGIS and enable the plugin from the Plugins menu.
 
 ## 📷 Screenshots
 
