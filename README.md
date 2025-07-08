@@ -23,6 +23,10 @@ Linux: ~/.local/share/QGIS/QGIS3/profiles/default/python/plugins
 Windows: C:\Users\<YourUsername>\AppData\Roaming\QGIS\QGIS3\profiles\default\python\plugins
 6.Restart QGIS and enable the plugin from the Plugins menu.
 
+## 📷 Screenshots
+
+![Ekran görüntüsü 2025-06-10 163017](https://github.com/user-attachments/assets/6776c8a4-0857-417e-a50a-fb3295ccd205)
+
 ## 📊 Usage
 1. Load a CSV file containing river flow data (Date and Discharge columns).
 2. Use the plugin panel to select:
